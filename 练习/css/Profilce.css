@@ -1,0 +1,53 @@
+.navbar-default {
+    background-color: #3097d1;
+    border: none;
+}
+.navbar-brand>img {
+    display: block;
+    width: 85px;
+    height: 23px;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #2578a7;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar {
+     margin-bottom: auto; 
+}
+.main{
+    text-align: center;
+}
+.main .main-zt{
+    background-image: url(../img/iceland.jpg);
+    color: aliceblue;
+    padding-top: 111px;
+    padding-bottom: 180px;
+    
+}
+.main .main-zt img{
+    border-radius: 50%;
+    width: 112px;
+    height: 112px;
+}
+
+
+
+
+
+
+
+
+.footer{
+    text-align: center;
+}
+.footer .footer-a a{
+    padding-left: 40px;
+    padding-bottom: 60px;
+}
+.footer .footer-zt{
+    border-top: 1px solid #cccccc;
+    padding-top: 55px;
+}
